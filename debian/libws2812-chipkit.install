@@ -1,0 +1,5 @@
+CoreTimer.c libraries/Display/chipkit/WS2812/
+README.md usr/share/doc/libws2812-chipkit/
+WS2812.cpp libraries/Display/chipkit/WS2812/
+WS2812.h libraries/Display/chipkit/WS2812/
+examples/LBling/LBling.ino libraries/Display/chipkit/WS2812/examples/LBling

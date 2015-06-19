@@ -1,0 +1,15 @@
+Source: libws2812-chipkit
+Section: libraries
+Priority: extra
+XBSC-Group: Display
+XBSC-Subgroup: LED
+XBSC-Family: pic32
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libws2812-chipkit
+Architecture: all
+Depends: chipkit
+Description: WS2812 library for chipkit
+
